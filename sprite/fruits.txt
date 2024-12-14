@@ -1,0 +1,7 @@
+sprite\fruits\(1).bmp
+sprite\fruits\(2).bmp
+sprite\fruits\(3).bmp
+sprite\fruits\(4).bmp
+sprite\fruits\(5).bmp
+sprite\fruits\(6).bmp
+sprite\fruits\(7).bmp

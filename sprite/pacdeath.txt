@@ -1,0 +1,12 @@
+sprite\pacdeath\(1).bmp
+sprite\pacdeath\(2).bmp
+sprite\pacdeath\(3).bmp
+sprite\pacdeath\(4).bmp
+sprite\pacdeath\(5).bmp
+sprite\pacdeath\(6).bmp
+sprite\pacdeath\(7).bmp
+sprite\pacdeath\(8).bmp
+sprite\pacdeath\(9).bmp
+sprite\pacdeath\(10).bmp
+sprite\pacdeath\(11).bmp
+sprite\pacdeath\(12).bmp
